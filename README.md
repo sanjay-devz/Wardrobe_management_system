@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wardrobe Manager
 
 **Organize better. Dress smarter.** Wardrobe Manager is a full-stack personal wardrobe studio for cataloguing clothing, saving outfits, planning a week of looks, coordinating colors, and keeping up with garment care.
@@ -133,3 +134,6 @@ Add current product screenshots here after running the app locally.
 - Weather-aware planning and calendar export.
 - Optional profile image uploads and account deletion.
 - Cloud image cleanup retries and storage usage reporting.
+=======
+# Wardrobe_management_system
+>>>>>>> 5bdc18076e56a40fe316e5b402e8f20564935366
